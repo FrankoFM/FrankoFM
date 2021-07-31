@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello fellow developers 👋🙂
 
-<!--
-**FrankoFM/FrankoFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things about me 😋
+- I've been a developer for serveral years now. ⌨️
+- I love to learn new stuff. 📚
+- I'm a perfectionist. 💯
+- I'm into Crypto 📈 (bullish of cause!)
+- I like to play Video Games
+- English / German 🔊
 
-Here are some ideas to get you started:
+### Languages
+- Javascript / Node / Typescript
+- C#
+- Lua
+- Java
+- Python
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics
+<a href="https://github.com/stuyk">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankofm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=frankofm&theme=gotham&layout=compact" />
+</a>
