@@ -1,11 +1,11 @@
 ### Hello fellow developers 👋🙂
 
 ### Things about me 😋
-- I've been a developer for serveral years now. ⌨️
+- I've been a self-taught developer for serveral years now. ⌨️
 - I love to learn new stuff. 📚
 - I'm a perfectionist. 💯
-- I'm into Crypto 📈 (bullish of cause!)
-- I like to play Video Games
+- I'm into Crypto. 📈 (bullish of cause!)
+- I like to play Video Games.
 - English / German 🔊
 
 ### Languages
