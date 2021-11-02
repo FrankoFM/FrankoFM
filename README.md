@@ -4,7 +4,7 @@
 - I've been a self-taught developer for serveral years now. ⌨️
 - I love to learn new stuff. 📚
 - I'm a perfectionist. 💯
-- I'm into Crypto. 📈 (bullish of cause!)
+- I'm into Crypto Trading. 📈
 - I like to play Video Games.
 - English / German 🔊
 
