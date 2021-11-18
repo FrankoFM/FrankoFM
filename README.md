@@ -1,4 +1,4 @@
-### Hello fellow developers 👋🙂
+## Hello fellow developers 👋🙂
 
 ### Things about me 😋
 - I've been a self-taught developer for serveral years now. ⌨️
