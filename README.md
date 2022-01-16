@@ -77,9 +77,10 @@
 ## Statistics 📊
 
 <a href="https://github.com/FrankoFM">
-  <img 
-    height="200em"
-    style="display: block; margin-left: auto; margin-right: auto;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankofm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
-  />
+  <p align="center">
+    <img 
+      height="200em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankofm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+    />
+  </p>
 </a>
