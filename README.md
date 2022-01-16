@@ -1,14 +1,16 @@
 ## Hello fellow developers 👋🙂☕
 
 ### Things about me 😋
-- I've been a self-taught developer for serveral years now. ⌨️
-- I love to learn new stuff. 📚
-- I'm a perfectionist. 💯
-- I'm into cryptocurrencys. 📈
-- I like to play video games. 🖱️
-- German / English 🔊
+
+-   I've been a self-taught developer for serveral years now. ⌨️
+-   I love to learn new stuff. 📚
+-   I'm a perfectionist. 💯
+-   I'm into cryptocurrencys. 📈
+-   I like to play video games. 🖱️
+-   German / English 🔊
 
 ## Languages 📗
+
 <div align="left"> 
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
@@ -23,6 +25,7 @@
 </div>
 
 ## Stuff I use 👍
+
 <div align="left">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
@@ -47,6 +50,7 @@
 </div>
 
 ## Stuff I want to learn 👍
+
 <div align="left">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
@@ -71,7 +75,11 @@
 </div>
 
 ## Statistics 📊
+
 <a href="https://github.com/FrankoFM">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankofm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <!--<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=frankofm&theme=gotham&layout=compact" />-->
+  <img 
+    height="200em"
+    style="display: block; margin-left: auto; margin-right: auto;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=frankofm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+  />
 </a>
