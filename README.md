@@ -11,22 +11,22 @@
 
 ## Languages 📗
 
-<div align="left"> 
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-<img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<div align="center"> 
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 </div>
 
 ## Stuff I use 👍
 
-<div align="left">
+<div align="center">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
@@ -51,7 +51,7 @@
 
 ## Stuff I want to learn 👍
 
-<div align="left">
+<div align="center">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
