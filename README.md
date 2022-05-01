@@ -47,6 +47,8 @@
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 </div>
 
 ## Stuff I want to learn 👍
@@ -55,7 +57,6 @@
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
@@ -65,7 +66,6 @@
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
