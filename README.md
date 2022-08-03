@@ -4,9 +4,9 @@
 
 -   I've been a self-taught developer for serveral years now. ⌨️
 -   I love to learn new stuff. 📚
--   I'm a perfectionist. 💯
 -   I'm into cryptocurrencys. 📈
 -   I like to play video games. 🖱️
+-   I'm into [alt:V](https://altv.mp/) / [Athena](https://github.com/Stuyk/altv-athena)
 -   German / English 🔊
 
 ## Languages 📗
