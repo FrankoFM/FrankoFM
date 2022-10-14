@@ -84,3 +84,15 @@
     />
   </p>
 </a>
+
+## Certifications 📜
+
+<div align="center">
+  <a href="https://www.freecodecamp.org/certification/fcc472e5a49-9827-4c80-9b17-aed70c76bc1c/back-end-development-and-apis">
+    Back End Development and APIs Certification
+  </a>
+</div>
+
+<div align="center">
+  <a>More comming soon...</a>
+</div>
