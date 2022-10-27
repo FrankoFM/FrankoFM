@@ -39,6 +39,7 @@
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
+<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
@@ -55,7 +56,6 @@
 
 <div align="center">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" />
