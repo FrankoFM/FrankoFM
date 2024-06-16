@@ -2,79 +2,43 @@
 
 ### Things about me 😋
 
--   I've been a self-taught developer for serveral years now. ⌨️
+-   Self-taught fullstack developer. ⌨️
 -   I love to learn new stuff. 📚
--   I'm into cryptocurrencys. 📈
 -   I like to play video games. 🖱️
--   I'm into [alt:V](https://altv.mp/) / [Athena](https://github.com/Stuyk/altv-athena)
+-   Working for [App Innovators](https://app-innovators.de/) <img height="16px" src="https://app-innovators.de/img/favicon.png" />
+-   Love to work and build with AI 🧠
 -   German / English 🔊
 
-## Languages 📗
+
+## OS 🖥️
 
 <div align="center"> 
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-<img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />  
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+</div>
+          
+## To Build Stuff 📗
+
+<div align="center"> 
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
-## Stuff I use 👍
+## Cool Stuff 👍
 
 <div align="center">
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 </div>
 
-## Stuff I want to learn 👍
-
-<div align="center">
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" />
-</div>
-
-## Statistics 📊
+## Github Statistics 📊
+> I do most of my stuff on a self hosted GitLab instance, no stats for that.
 
 <a href="https://github.com/FrankoFM">
   <p align="center">
@@ -84,15 +48,3 @@
     />
   </p>
 </a>
-
-## Certifications 📜
-
-<div align="center">
-  <a href="https://www.freecodecamp.org/certification/fcc472e5a49-9827-4c80-9b17-aed70c76bc1c/back-end-development-and-apis">
-    Back End Development and APIs Certification
-  </a>
-</div>
-
-<div align="center">
-  <a>More comming soon...</a>
-</div>
