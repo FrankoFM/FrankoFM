@@ -5,7 +5,6 @@
 -   Self-taught fullstack developer. ⌨️
 -   I love to learn new stuff. 📚
 -   I like to play video games. 🖱️
--   Working for [App Innovators](https://app-innovators.de/) <img height="16px" src="https://app-innovators.de/img/favicon.png" />
 -   Love to work and build with AI 🧠
 -   German / English 🔊
 
